@@ -1,0 +1,55 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Web Development",
+            "slug": "introduction-to-web-development",
+            "description": "Learn the basics of web development including HTML, CSS, and JavaScript.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://example.com/image1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Python Programming Masterclass",
+            "slug": "python-programming-masterclass",
+            "description": "Become a Python expert with this comprehensive masterclass.",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://example.com/image2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Python Programming Masterclass",
+            "slug": "python-programming-masterclass",
+            "description": "Become a Python expert with this comprehensive masterclass.",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://example.com/image2.jpg"
+        },
+        
+        {
+            "id": 4,
+            "title": "Graphic Design Essentials",
+            "slug": "graphic-design-essentials",
+            "description": "Master the essentials of graphic design and create stunning visuals.",
+            "price": 49.99,
+            "instructor": "Emily Brown",
+            "isFeatured": true,
+            "image": "https://example.com/image4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "JavaScript Frameworks",
+            "slug": "javascript-frameworks",
+            "description": "Explore modern JavaScript frameworks such as React, Vue, and Angular.",
+            "price": 79.99,
+            "instructor": "David Wilson",
+            "isFeatured": true,
+            "image": "https://example.com/image5.jpg"
+        }
+    ]
+}
